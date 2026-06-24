@@ -1,4 +1,0 @@
-# Postverta-Porrima System — KSP Planet Pack
-
-A complete Kerbol replacement based on the Postverta-Porrima system from
-your Atera worldbuilding doc. 1 star, 9 planets, 14 major moons.
